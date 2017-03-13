@@ -1,0 +1,66 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-size: 1500px;
+    color: white;
+    font-size: 48px;
+    font-weight: bold;
+}
+.text-center{
+	font-size:48px;
+	font-weight: bold;
+
+}
+.jumbotron {
+    background-color: transparent;
+}
+
+
+#logo {
+    height: 1500px;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.gameArea {
+    font-size: 60px;
+}
+
+.main-button-container {
+    margin-top: 100px;
+    max-width: 1010px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.answer:hover {
+    background: limegreen;
+}
+
+.answer {
+    background-color: white;
+    padding-top: 7px;
+    height: 50px;
+    color: black;
+    padding-left: 14px;
+    background-color: white;
+    border-radius: 4px;
+}
+
+.img-wrong {
+    margin-top: 40px;
+}
+
+.first-answer {
+    margin-top: 40px;
+}
+
+.reset-button {
+    margin-top: 40px;
+}
+
+.summary-correct {
+    margin-top: 40px;
+}
